@@ -1,10 +1,10 @@
 # my_wm_config
 
-If you would like to setup an [i3vm](https://i3wm.org/) like windows manager on a MacOs Computer... please read on!
+If you would like to set up an [i3vm](https://i3wm.org/) ish windows manager on a MacOs Computer... please read on!
 
-I took inspiration from this lovely blog by Christ Bargmann [So you want i3wm on MacOs?](https://cbrgm.net/so-you-want-i3wm-on-macos/), it will have a better explaination. I am not a heavy *alt* user, so I altered his setup alittle bit.
+I took inspirations from this lovely blog post by Christ Bargmann [So you want i3wm on MacOs?](https://cbrgm.net/so-you-want-i3wm-on-macos/). This blog will have a better explaination on how and why. Since I am not a heavy *alt* user, I *alt*ered his setup alittle bit and replaced alts with ctrls.
 
-This repo is generally created so I won't lose my setup, it is pain to set these hahaha.
+This repo was created to make sure I won't lose my setup haha.
 
 ## TLDR if you didn't read the blog above
 
