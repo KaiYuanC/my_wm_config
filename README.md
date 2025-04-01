@@ -1,5 +1,13 @@
 # my_wm_config
 
+[2025-04-01] Update:
+Ever since a mac update, I started a issue with moving windows between workspaces with my setup with yabai + skhd + spacebar. This seem to be a [common issue](https://github.com/koekeishiya/yabai/issues/1096) I then followed the recommendation to migrate my wm to [aerospace](https://nikitabobko.github.io/AeroSpace/guide). 
+And therefore storing my personal config here. I've also decided to try 'alt' keys a try. 
+
+I have referred heavily to [Josean Martinez's guide](https://www.josean.com/posts/how-to-setup-aerospace-tiling-window-manager)
+
+---
+  
 If you would like to set up an [i3vm](https://i3wm.org/) ish windows manager on a MacOs Computer... please read on!
 
 I took inspirations from this lovely blog post by Christ Bargmann [So you want i3wm on MacOs?](https://cbrgm.net/so-you-want-i3wm-on-macos/). This blog will have a better explaination on how and why. Since I am not a heavy *alt* user, I *alt*ered his setup alittle bit and replaced alts with ctrls.
