@@ -1,7 +1,9 @@
 # my_wm_config
 
 [2025-04-01] Update:
-Ever since a mac update, I started a issue with moving windows between workspaces with my setup with yabai + skhd + spacebar. This seem to be a [common issue](https://github.com/koekeishiya/yabai/issues/1096) I then followed the recommendation to migrate my wm to [aerospace](https://nikitabobko.github.io/AeroSpace/guide). 
+Ever since a mac update, I started having an issue with moving windows between workspaces with my yabai + skhd + spacebar setup. This seem to be a [common issue](https://github.com/koekeishiya/yabai/issues/1096). 
+
+I decided  to migrate my wm to [aerospace](https://nikitabobko.github.io/AeroSpace/guide). 
 And therefore storing my personal config here. I've also decided to try 'alt' keys a try. 
 
 I have referred heavily to [Josean Martinez's guide](https://www.josean.com/posts/how-to-setup-aerospace-tiling-window-manager)
